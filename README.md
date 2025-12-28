@@ -18,7 +18,7 @@
 - 📌 Currently focused on  
   **Advanced ML & NLP, GATE (DA & CS), and real-world AI + IoT projects**
 
-- 📫 Reach me at **yourname@gmail.com**
+- 📫 Reach me at **sahasragteja@gmail.com**
 
 ---
 
@@ -26,9 +26,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/](https://www.linkedin.com/in/sahasra-teja-gundagani-a0a973257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  <a href="https://www.instagram.com/gsahasraa/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
   </a>
 </p>
 
@@ -38,9 +35,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-]"40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
@@ -49,12 +44,3 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gsahasraa&show_icons=true&theme=dark" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsahasraa&layout=compact&theme=dark" />
-</p>
