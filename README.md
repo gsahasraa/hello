@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/sahasra-teja-gundagani-a0a973257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://instagram.com/YOUR_HANDLE" target="_blank">
+  <a href="https://www.instagram.com/gsahasraa/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
   </a>
 </p>
